@@ -1,0 +1,9 @@
+# 代理服务器配置文件
+# 请将你的代理服务器地址填写在下方，每行一个
+# 支持格式: http://ip:port 或 http://username:password@ip:port
+# 以 # 开头的行为注释，会被自动忽略
+
+# 示例代理（请替换为你的真实代理）:
+# http://127.0.0.1:8080
+# http://username:password@proxy.example.com:8080
+# socks5://127.0.0.1:1080
