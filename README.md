@@ -26,11 +26,9 @@ pip install -r requirements.txt
 1. 复制 `invites.txt.example` 为 `invites.txt`
 2. 在 `invites.txt` 中填入真实的邀请码，每行一个
 
-```
-ABC123
-DEF456
-GHI789
-```
+例如：https://app.falcon.finance?r=010683d12aca04684f776a4b64a61011
+取后缀填入invites.txt
+010683d12aca04684f776a4b64a61011
 
 ### 2. 配置代理（可选）
 
