@@ -27,8 +27,10 @@ pip install -r requirements.txt
 2. 在 `invites.txt` 中填入真实的邀请码，每行一个
 
 例如：https://app.falcon.finance?r=010683d12aca04684f776a4b64a61011
+
 取后缀填入invites.txt
-010683d12aca04684f776a4b64a61011
+
+就是：010683d12aca04684f776a4b64a61011
 
 ### 2. 配置代理（可选）
 
